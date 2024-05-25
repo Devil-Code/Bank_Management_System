@@ -16,7 +16,7 @@ To run the application, you'll need Java installed on your system.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/bank-management-system.git
+   git clone https://github.com/Devil-Code/bank-management-system.git
    ```
 
 2. Compile and run the Java files.
