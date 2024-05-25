@@ -56,13 +56,36 @@ To run the application, you'll need Java installed on your system.
   - ...
 ```
 
+## Features and Important Functions
+
+### Account Management
+- **Savings Account Creation:** Allows users to create a savings account.
+- **Account Balance Inquiry:** Users can check their account balance.
+- **Deposit:** Functionality to deposit money into the account.
+- **Withdrawal:** Functionality to withdraw money from the account.
+
+### Administration
+- **Admin Login:** Authentication mechanism for administrators.
+- **Admin Dashboard:** Access to administrative functions such as user management and transaction tracking.
+- **User Management:** CRUD operations for user accounts.
+- **Transaction Tracking:** Monitoring and logging of user transactions.
+
+### Employee Management
+- **Employee Login:** Authentication mechanism for bank employees.
+- **Employee Dashboard:** Access to employee-specific functions such as account management assistance and customer support.
+
+### User Interface
+- **Start Page:** The initial page of the application where users can log in.
+- **User Menu:** Navigation menu for users to perform various banking operations.
+- **Transaction History:** View transaction history for a user's account.
+
 ## Contributing
 
 Contributions are welcome! Please submit a pull request if you'd like to contribute to this project.
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0(LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 ```
 
-Let me know if you need any modifications or if there's anything else you'd like to include!
+Feel free to adjust the features and functions or let me know if you need further modifications!
