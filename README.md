@@ -86,6 +86,14 @@ Contributions are welcome! Please submit a pull request if you'd like to contrib
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
+
+## Contact Information
+
+For any inquiries or issues, please contact:
+- **Pritesh Gandhi**
+- **Email**: pgandhi1412@gmail.com
+- **GitHub**: [YourGitHubProfile](https://github.com/Devil-Code)
+
 ```
 
 Feel free to adjust the features and functions or let me know if you need further modifications!
